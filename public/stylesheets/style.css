@@ -22,3 +22,11 @@
   .active>a {
     color: #1abc9c !important;;
   }
+  
+  .plus{
+    width: 100%
+  }
+  table{
+    width: 100%;
+    
+  }
